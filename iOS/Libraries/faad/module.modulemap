@@ -1,0 +1,4 @@
+module faad [system][extern_c] {
+    header "./libfaad/decode.h"
+    export *
+}

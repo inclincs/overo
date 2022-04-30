@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Overo</string>
+    <string name="start_recording_button_text">녹음 시작</string>
+    <string name="stop_recording_button_text">녹음 중지</string>
+    <string name="change_recording_name">바꿀 기록 이름을 입력하세요</string>
+    <string name="remove_recording">기록을 지우시겠습니까?</string>
+    <string name="new_recording">새 녹음</string>
+</resources>

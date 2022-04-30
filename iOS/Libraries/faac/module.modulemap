@@ -1,0 +1,4 @@
+module faac [system][extern_c] {
+    header "./libfaac/encode.h"
+    export *
+}

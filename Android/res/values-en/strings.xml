@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Overo</string>
+    <string name="start_recording_button_text">Start Recording</string>
+    <string name="stop_recording_button_text">Stop Recording</string>
+    <string name="change_recording_name">Please input recording name to be change</string>
+    <string name="remove_recording">Do you want to remove this recording?</string>
+    <string name="new_recording">New Recording</string>
+</resources>

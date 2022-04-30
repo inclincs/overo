@@ -1,0 +1,4 @@
+module embed [system][extern_c] {
+    header "./embed.h"
+    export *
+}

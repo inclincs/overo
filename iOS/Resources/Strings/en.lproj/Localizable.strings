@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  Overo
+
+  Created by cnlab on 2021/08/17.
+  
+*/
+
+"새로고침" = "Refresh";
+
+"녹음" = "Record";
+"중지" = "Stop";
+
+"녹음을 완료하였습니다!" = "Recording Finished!";
+"확인" = "OK";
+
+"재생" = "Play";
+"일시정지" = "Pause";
+
+"이름 없음" = "No Name";
+"날짜 없음" = "None";
+
+"보호 안됨" = "Not Protected";
+"음성 보호" = "Voice Protected";
+"내용 보호" = "Speech Protected";
+
+"없음" = "None";

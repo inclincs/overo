@@ -1,0 +1,5 @@
+module wav [system][extern_c] {
+    header "./decode.h"
+    header "./encode.h"
+    export *
+}

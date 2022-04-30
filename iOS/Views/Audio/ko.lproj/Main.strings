@@ -1,0 +1,72 @@
+
+/* Class = "UINavigationItem"; title = "상세"; ObjectID = "1tv-BJ-NbA"; */
+"1tv-BJ-NbA.title" = "상세";
+
+/* Class = "UILabel"; text = "날짜"; ObjectID = "52L-09-u65"; */
+"52L-09-u65.text" = "날짜";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "5c2-5h-osI"; */
+"5c2-5h-osI.text" = "이름";
+
+/* Class = "UINavigationItem"; title = "녹음"; ObjectID = "9IQ-bG-cpU"; */
+"9IQ-bG-cpU.title" = "녹음";
+
+/* Class = "UILabel"; text = "보호 처리"; ObjectID = "BCp-RN-rOY"; */
+"BCp-RN-rOY.text" = "보호 처리";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "EOt-Au-Zd7"; */
+"EOt-Au-Zd7.text" = "00:00";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "Ga8-rz-C6A"; */
+"Ga8-rz-C6A.text" = "00:00";
+
+/* Class = "UIButton"; normalTitle = "녹음"; ObjectID = "J03-cc-y96"; */
+"J03-cc-y96.normalTitle" = "녹음";
+
+/* Class = "UILabel"; text = "녹음"; ObjectID = "L4d-fe-o0Z"; */
+"L4d-fe-o0Z.text" = "녹음";
+
+/* Class = "UILabel"; text = "보호 처리됨"; ObjectID = "MbI-4K-puy"; */
+"MbI-4K-puy.text" = "보호 처리됨";
+
+/* Class = "UITextField"; placeholder = "녹음"; ObjectID = "RN8-fH-Ugk"; */
+"RN8-fH-Ugk.placeholder" = "새 녹음";
+
+/* Class = "UILabel"; text = "변조"; ObjectID = "U6m-fz-v0e"; */
+"U6m-fz-v0e.text" = "변조";
+
+/* Class = "UILabel"; text = "-00:00"; ObjectID = "VVL-nu-QJY"; */
+"VVL-nu-QJY.text" = "-00:00";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "WNC-Iy-csA"; */
+"WNC-Iy-csA.text" = "00:00";
+
+/* Class = "UILabel"; text = "2021-01-01 23:59:59"; ObjectID = "aIy-rY-nxX"; */
+"aIy-rY-nxX.text" = "2021-01-01 23:59:59";
+
+/* Class = "UINavigationItem"; title = "녹음 기록"; ObjectID = "aZy-fR-ZHg"; */
+"aZy-fR-ZHg.title" = "녹음 기록";
+
+/* Class = "UILabel"; text = "00:00"; ObjectID = "cR6-uf-woS"; */
+"cR6-uf-woS.text" = "00:00";
+
+/* Class = "UILabel"; text = "길이"; ObjectID = "dfB-Wr-HGS"; */
+"dfB-Wr-HGS.text" = "길이";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "eCW-VI-hHC"; */
+"eCW-VI-hHC.title" = "Item";
+
+/* Class = "UILabel"; text = "보호 처리 안됨"; ObjectID = "koh-Zg-Bez"; */
+"koh-Zg-Bez.text" = "보호 처리 안됨";
+
+/* Class = "UILabel"; text = "0000-00-00"; ObjectID = "qkw-Fh-i4c"; */
+"qkw-Fh-i4c.text" = "0000-00-00";
+
+/* Class = "UILabel"; text = "12345878903d9284a9b7cde8eff7e473"; ObjectID = "rht-8e-JTK"; */
+"rht-8e-JTK.text" = "12345878903d9284a9b7cde8eff7e473";
+
+/* Class = "UILabel"; text = "해시값"; ObjectID = "s5r-0r-o1E"; */
+"s5r-0r-o1E.text" = "해시값";
+
+/* Class = "UIButton"; normalTitle = "재생"; ObjectID = "uqW-Lh-q5h"; */
+"uqW-Lh-q5h.normalTitle" = "재생";
